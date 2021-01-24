@@ -11,7 +11,7 @@ ludosudo = Config.SUDO_USERS
 
 if ludosudo:
     sudou = "True"
-else:s
+else:ssss
     sudou = "False"
 
 fire = bot.uid
